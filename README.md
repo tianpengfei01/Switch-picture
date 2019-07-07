@@ -1,1 +1,1 @@
-# Switch-picture
+# 图片定时切换效果
